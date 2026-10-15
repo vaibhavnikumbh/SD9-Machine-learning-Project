@@ -3,9 +3,6 @@
 ## Project overview
 This beginner-friendly project explores road-construction progress using K-Means clustering and Random Forest classification. It supports UN Sustainable Development Goal 9: Industry, Innovation and Infrastructure.
 
-## Dataset notice
-`road_construction_sample_data.csv` contains **synthetic demonstration data generated for this project**. It is not official PMGSY data and must not be presented as real government records. For a real-data version, replace it with an official dataset and update the feature names/preprocessing.
-
 ## Columns
 - `project_id`: demonstration project identifier
 - `road_length_km`: road length in kilometres
